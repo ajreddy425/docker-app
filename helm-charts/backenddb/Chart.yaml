@@ -1,0 +1,4 @@
+apiVersion: v2
+name: backenddb
+description: BackendDB Helm Chart
+version: 0.1.0
